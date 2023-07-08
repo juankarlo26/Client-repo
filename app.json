@@ -12,7 +12,8 @@
       "backgroundColor": "#FFD101"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/2ed33cad-34ff-4e4b-ae70-04ebc38c0da9"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -45,6 +46,9 @@
       "eas": {
         "projectId": "2ed33cad-34ff-4e4b-ae70-04ebc38c0da9"
       }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
